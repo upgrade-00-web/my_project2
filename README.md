@@ -24,7 +24,5 @@ Task Manager
 
 2\. Запустите файл `gui.py`:
 
-&#x20;  ```bash
-
 &#x20;  python gui.py
 
