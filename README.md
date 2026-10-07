@@ -26,3 +26,7 @@ Task Manager
 
 &#x20;  python gui.py
 
+
+
+<img width="787" height="717" alt="Снимок экрана" src="https://github.com/user-attachments/assets/1bdd17d4-11cf-4aa5-b756-c6f5fd1af406" />
+
